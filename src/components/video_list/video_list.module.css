@@ -1,0 +1,7 @@
+.list_box{
+    padding-left: 0;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+}
